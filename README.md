@@ -1,19 +1,19 @@
 # 👻 Spo0kyDev
 
 **Aspiring Developer | Audio Engineer | Lifelong Learner**  
-Exploring programming, game development, and audio design, one project at a time.
+Learning, experimenting, and uncovering the unknown one line at a time.
 
 ---
 
 ## About Me
-- Computer Science student with a passion for creating and learning.  
-- Interested in game development, audio programming, and building fun, meaningful projects.  
-- Currently improving my programming skills and diving into C++ and Unity.  
+- Computer Science student with a passion for creating and exploring new ideas.  
+- Fascinated by game development, audio programming, and the art of offensive cybersecurity.  
+- Always learning, experimenting, and building projects that combine creativity and technical skill.  
 
 ---
 
 ## Skills
-- **Programming Languages:** Java, Python, C, C++  
+- **Programming Languages:** Java, Python, C, C++, C#  
 - **Game Development Tools:** Unity, Blender, Krita, GIMP  
 - **Audio Tools:** Csound, VCV Rack, Live 
 - **Version Control:** Git/GitHub  
