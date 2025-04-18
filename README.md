@@ -25,5 +25,5 @@ Learning, experimenting, and uncovering the unknown one line at a time.
 - **GitHub:** [Spo0kyDev](https://github.com/Spo0kyDev)  
 - **Email:** [spo0kydevops@gmail.com](mailto:spo0kydevops@gmail.com)  
 
-*"Every great journey starts with a single line of code."*
-*"Code with passion, learn with curiosity, and create with purpose."*
+
+*Code with passion, learn with curiosity, and create with purpose. -Spo0ky*
