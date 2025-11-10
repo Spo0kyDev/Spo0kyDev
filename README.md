@@ -1,4 +1,4 @@
-# 👻 Spo0kyDev
+# Spo0kyDev
 
 **Aspiring Systems & Cybersecurity Engineer | Lifelong Learner**  
 Exploring the unseen layers of code and systems — where logic meets curiosity, and every anomaly tells a story.
