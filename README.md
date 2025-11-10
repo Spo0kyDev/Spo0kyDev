@@ -6,15 +6,21 @@ Exploring the unseen layers of code and systems, where logic meets curiosity, an
 ---
 
 ## About Me
-- Computer Science student with a focus on systems, cybersecurity, and low-level programming.  
-- Fascinated by reverse engineering, operating systems, and the art of breaking things to understand them.  
-- Driven by curiosity, precision, and a belief that truth often hides in the details.
+- Computer science student who prefers terminals over dashboards.  
+- Obsessed with how systems really work: from the kernel to the wire.  
+- Breaks things, fixes them, then breaks them again just to see *why*.  
+- Believes curiosity is the most powerful debugging tool we have.
+- Chasing the edges of systems most people never see.  
+- I take things apart; Binaries, networks, ideas, and trace the threads that connect them.  
+- The goal isn’t control. It’s understanding.  
+- Somewhere between circuitry and instinct, truth leaves a footprint. I like finding it.
+
 
 ---
 
 ## Skills
-- **Languages:** C, C++, Python, Java, C#  
-- **Systems & Tools:** Linux, Git/GitHub, Networking, Shell Scripting  
+- **Languages:** C, C++, Python, Java, C#, Bash
+- **Systems & Tools:** Linux, Git/GitHub, Networking, Shell scripting
 - **Creative Tools:** Unity, Blender, Krita, GIMP  
 
 ---
