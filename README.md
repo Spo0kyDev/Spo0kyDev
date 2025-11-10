@@ -1,22 +1,21 @@
 # 👻 Spo0kyDev
 
-**Aspiring Developer | Audio Engineer | Lifelong Learner**  
-Learning, experimenting, and uncovering the unknown one line at a time.
+**Aspiring Systems & Cybersecurity Engineer | Lifelong Learner**  
+Exploring the unseen layers of code and systems — where logic meets curiosity, and every anomaly tells a story.
 
 ---
 
 ## About Me
-- Computer Science student with a passion for creating and exploring new ideas.  
-- Fascinated by game development, audio programming, and the art of offensive cybersecurity.  
-- Always learning, experimenting, and building projects that combine creativity and technical skill.  
+- Computer Science student with a focus on systems, cybersecurity, and low-level programming.  
+- Fascinated by reverse engineering, operating systems, and the art of breaking things to understand them.  
+- Driven by curiosity, precision, and a belief that truth often hides in the details.
 
 ---
 
 ## Skills
-- **Programming Languages:** Java, Python, C, C++, C#  
-- **Game Development Tools:** Unity, Blender, Krita, GIMP  
-- **Audio Tools:** Csound, VCV Rack, Live 
-- **Version Control:** Git/GitHub  
+- **Languages:** C, C++, Python, Java, C#  
+- **Systems & Tools:** Linux, Git/GitHub, Networking, Shell Scripting  
+- **Creative Tools:** Unity, Blender, Krita, GIMP  
 
 ---
 
@@ -25,5 +24,7 @@ Learning, experimenting, and uncovering the unknown one line at a time.
 - **GitHub:** [Spo0kyDev](https://github.com/Spo0kyDev)  
 - **Email:** [spo0kydevops@gmail.com](mailto:spo0kydevops@gmail.com)  
 
+---
 
-*Code with passion, learn with curiosity, and create with purpose. -Spo0ky*
+
+*Curiosity is the first exploit.* — *Spo0ky*
